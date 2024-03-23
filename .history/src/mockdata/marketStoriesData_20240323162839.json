@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Coldest Sunset",
+    "content": "The alpine market sees a cool-down as winter sports gear sales come to a season end. The market predicts a shift in consumer spending towards outdoor spring activities.",
+    "image": "/assets/"
+  },
+  {
+    "id": 2,
+    "title": "Rising Economic Tides",
+    "content": "Coastal real estate prices are surging as investors anticipate a rise in tourism. Analysts warn of a potential bubble forming in popular beachfront destinations.",
+    "image": "/assets/sunset2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Tech Giants' New Dawn",
+    "content": "Big tech companies lead a rally in the stock market, pushing indices to new highs. The optimism follows announcements of groundbreaking 6G technology trials.",
+    "image": "/assets/sunset3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Pharma's Leap Forward",
+    "content": "Pharmaceutical stocks leap after a new drug gains fast-track approval, promising a revolution in treatment for a rare disease.",
+    "image": "/assets/sunset4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Green Energy Horizon",
+    "content": "Renewable energy sector outperforms as legislation backs further investments in solar and wind power. Investors are eager to catch the next wave of green stocks.",
+    "image": "/assets/sunset5.jpeg"
+  }
+]
